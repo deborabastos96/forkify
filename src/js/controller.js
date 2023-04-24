@@ -10,10 +10,6 @@ import addRecipeView from './views/addRecipeView.js';
 import 'core-js/stable'; // everything
 import 'regenerator-runtime/runtime'; // async / await
 
-/* if (module.hot) {
-  module.hot.accept();
-} */
-
 const controlRecipes = async function () {
   try {
     const id = window.location.hash.slice(1);
