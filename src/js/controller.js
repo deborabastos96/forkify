@@ -133,3 +133,5 @@ const init = function () {
 };
 init();
 console.log('Welcome');
+console.log('NEW FEATURE');
+console.log('HELLO');
