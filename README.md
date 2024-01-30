@@ -1,7 +1,7 @@
 # forkify
 
 ## Overview
-forkify is a recipe search and display application designed to enhance your cooking experience. With Forkify, users can search for recipes and view detailed information about each recipe, including cooking time, servings, ingredients, and the original source link. Users can also adjust the number of servings, bookmark recipes for later reference, and add their own recipes, which are only visible to themselves.
+forkify is a recipe search and display application designed to enhance your cooking experience. With forkify, users can search for recipes and view detailed information about each recipe, including cooking time, servings, ingredients, and the original source link. Users can also adjust the number of servings, bookmark recipes for later reference, and add their own recipes, which are only visible to themselves.
 
 ## Features
 * Recipe Search: Users can search for recipes using the search functionality provided.
